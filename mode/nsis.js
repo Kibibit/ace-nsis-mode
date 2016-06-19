@@ -1,4 +1,4 @@
-ace.define(function(require, exports, module) {
+ace.define("nsisMode", function(require, exports, module) {
 "use strict";
 
 var oop = require("../lib/oop");
