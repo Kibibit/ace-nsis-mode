@@ -1,4 +1,4 @@
-ace.define(function(require, exports, module) {
+ace.define('nsis_highlight_rules', function(require, exports, module) {
 "use strict";
 
 var oop = require("../lib/oop");
