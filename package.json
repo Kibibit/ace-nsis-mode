@@ -7,7 +7,7 @@
   "repository": "https://github.com/idleberg/ace-nsis-mode",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-debug": "^2.1.2",
+    "gulp-debug": "^3.0.0",
     "gulp-jshint": "^2.0.0"
   },
   "scripts": {
